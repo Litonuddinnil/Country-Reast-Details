@@ -1,0 +1,13 @@
+.coutries-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+   
+}
+.flag-container img{
+    width: 200px;
+    height: 200px;
+    padding: 7px;
+    border-radius: 16px;
+    
+}
